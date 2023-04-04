@@ -1,0 +1,344 @@
+body{
+     background-color: #4F7CAC;
+}
+
+.image{
+    height: 926px;
+    width: 428px;
+    position: relative;
+    right:20px;
+    bottom: 10px;
+    z-index: -1;
+}
+
+.square{
+    height: 5693px;
+    width: 488px;
+    background-color: #3771C8;
+    opacity: 50%;
+    position: relative;
+    bottom: 280px;
+    right: 10px;
+    border-radius: 21px;
+}
+
+.square1{
+    height: 53px;
+    width: 247px;
+    background-color: white;
+    border-radius: 10px;
+    position: relative;
+    bottom: 5920px;
+    left: 100px;
+}
+
+.square2{
+    height: 53px;
+    width: 247px;
+    background-color: #4F7CAC;
+    border-radius: 10px;
+    position: relative;
+    bottom: 5910px;
+    left: 100px;
+}
+
+.smallsquare{
+    height: 30px;
+    width: 247px;
+    border-radius: 10px;
+    background-color: white;
+    position: relative;
+    bottom: 5890px;
+    left: 100px;
+}
+
+.smallsquare2{
+    height: 30px;
+    width: 247px;
+    border-radius: 10px;
+    background-color: white;
+    position: relative;
+    bottom: 5880px;
+    left: 100px;
+}
+
+.smallsquare3{
+    height: 30px;
+    width: 247px;
+    border-radius: 10px;
+    background-color: white;
+    position: relative;
+    bottom: 5870px;
+    left: 100px;
+}
+
+.smallsquare4{
+    height: 30px;
+    width: 247px;
+    border-radius: 10px;
+    background-color: white;
+    position: relative;
+    bottom: 5860px;
+    left: 100px;
+}
+
+.profile{
+    height: 65px;
+    width: 65px;
+    border-radius: 213px;
+    position: relative;
+    bottom: 6180px;
+    left: 200px;
+}
+
+h3{
+    height: 302px;
+    width:49px;
+    font-family: Abel;
+    font-weight: 400;
+    font-size: 13px;
+    color: black;
+    position: relative;
+    bottom: 6210px;
+    left: 200px;
+}
+
+.text{
+    height: 302px;
+    width:49px;
+    font-family: Abel;
+    font-weight: 400;
+    font-size: 13px;
+    color: black;
+    position: relative;
+    bottom: 6460px;
+    left: 200px;
+}
+
+.lowbutton{
+    height: 302px;
+    width: 510px;
+    font-family: Abel;
+    font-weight: 400;
+    font-size: 10px;
+    color: black;
+    position: relative;
+    bottom: 6710px;
+    left: 130px;
+}
+
+.lowbutton2{
+    height: 302px;
+    width: 510px;
+    font-family: Abel;
+    font-weight: 400;
+    font-size: 10px;
+    color: black;
+    position: relative;
+    bottom: 6980px;
+    left: 130px;
+}
+
+.lowbutton3{
+    height: 302px;
+    width: 510px;
+    font-family: Abel;
+    font-weight: 400;
+    font-size: 10px;
+    color: black;
+    position: relative;
+    bottom: 7250px;
+    left: 130px;
+}
+
+.lowbutton4{
+    height: 302px;
+    width: 510px;
+    font-family: Abel;
+    font-weight: 400;
+    font-size: 10px;
+    color: black;
+    position: relative;
+    bottom: 7525px;
+    left: 130px;
+}
+
+.first{
+    height: 11px;
+    width: 502px;
+    font-family: Abel;
+    font-size: 10px;
+    font-weight: 400;
+    color: black;
+    position: relative;
+    left: 83px;
+    bottom: 7800px;
+}
+
+.second{
+    height: 11px;
+    width: 502px;
+    font-family: Abel;
+    font-size: 10px;
+    font-weight: 400;
+    color: #4F7CAC;
+    position: relative;
+    left: 83px;
+    bottom: 7800px;
+}
+
+.ola{
+    height: 20px;
+    width: 35px;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: Abel;
+    position: relative;
+    bottom: 8170px;
+    left: 100px;
+}
+
+.square2{
+    height: 5693px;
+    width: 488px;
+    background-color: #3771C8;
+    opacity: 50%;
+    border-radius: 21px;
+    position: relative;
+    bottom: 280px;
+    left: -12px;
+}
+
+.squarewhite{
+    height: 53px;
+    width: 374px;
+    border-radius: 10px;
+    background-color: white;
+    position: relative;
+    bottom: 5850px;
+    left:50px;
+}
+
+.squarewhite2{
+    height: 53px;
+    width: 374px;
+    border-radius: 10px;
+    background-color: white;
+    position: relative;
+    bottom: 5790px;
+    left:50px;
+}
+
+.squarewhite3{
+    height: 40px;
+    width: 267px;
+    border-radius: 10px;
+    background-color: #4F7CAC;
+    position: relative;
+    bottom: 5750px;
+    left:100px;
+}
+
+.signin{
+    height: 302px;
+    width: 510px;
+    font-family: Abel;
+    font-size: 20px;
+    font-weight: 200;
+    color: black;
+    position: relative;
+    bottom: 6120px;
+    left:50px;
+}
+
+.text1{
+    width: 500px;
+    height: 25px;
+    font-family: Abel;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    color: black;
+    position: relative;
+    bottom: 6380px;
+    left:50px;
+}
+
+.name{
+    height: 14px;
+    width: 25px;
+    font-family: Abel;
+    font-weight: 400;
+    font-size: 10px;
+    color: rgba(0, 0, 0, .55);
+    position: relative;
+    bottom: 6380px;
+    left:70px;
+}
+
+.password{
+    height: 14px;
+    width: 25px;
+    font-family: Abel;
+    font-weight: 400;
+    font-size: 10px;
+    color: rgba(0, 0, 0, .55);
+    position: relative;
+    bottom: 6290px;
+    left:70px;
+}
+
+.text2{
+    height: 28px;
+    width: 283px;
+    font-family: Abel;
+    font-size: 10px;
+    font-weight: 400;
+    color: black;
+    position: relative;
+    bottom: 6260px;
+    left:70px;
+}
+
+.text3{
+    height: 21px;
+    width: 71px;
+    font-family: Abel;
+    font-size: 20px;
+    font-weight: 400;
+    position: relative;
+    bottom: 6285px;
+    left:200px;
+}
+
+.image15{
+    width: 350px;
+    height: 700px;
+    border-radius: 40px;
+    position: relative;
+    top: 100px;
+    left: 50px;
+}
+
+.bottomnav{
+    background-color: #253237;
+    overflow: visible;
+}
+
+.bottomnav{
+    float: none;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    font-size: 25px;
+}
+
+.bottomnav a:hover{
+    background-color: #253237;
+    color: white;
+}
+
+.bottomnav a.active{
+    background-color: white;
+    color: black;
+}
